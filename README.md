@@ -37,6 +37,6 @@ python3 fbdown.py
 
 ## Licencia
 
-Copyright (C) 2016 Mario Zamora mortasoft@gmail.com
+Copyright (C) 2019 Mario Zamora mortasoft@gmail.com
 
 Licensed under the GNU General Public License v3.0
