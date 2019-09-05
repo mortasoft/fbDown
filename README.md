@@ -9,6 +9,7 @@ Script de Python 3 para descargar videos de facebook
 ```bash
 sudo apt-get install python3
 sudo apt-get install git
+sudo pip3.7 install python-slugify
 
 ```
 
